@@ -1,0 +1,1 @@
+# blue.admin_service_template
